@@ -1,0 +1,507 @@
+{
+  "Q1": {
+    "text": "How important is Family in your life?",
+    "min": 1,
+    "max": 4,
+    "labels": {
+      "1": "Very important",
+      "2": "Rather important",
+      "3": "Not very important",
+      "4": "Not at all important"
+    }
+  },
+  "Q2": {
+    "text": "How important are Friends in your life?",
+    "min": 1,
+    "max": 4,
+    "labels": {
+      "1": "Very important",
+      "2": "Rather important",
+      "3": "Not very important",
+      "4": "Not at all important"
+    }
+  },
+  "Q3": {
+    "text": "How important is Leisure time in your life?",
+    "min": 1,
+    "max": 4,
+    "labels": {
+      "1": "Very important",
+      "2": "Rather important",
+      "3": "Not very important",
+      "4": "Not at all important"
+    }
+  },
+  "Q4": {
+    "text": "How important is Politics in your life?",
+    "min": 1,
+    "max": 4,
+    "labels": {
+      "1": "Very important",
+      "2": "Rather important",
+      "3": "Not very important",
+      "4": "Not at all important"
+    }
+  },
+  "Q5": {
+    "text": "How important is Work in your life?",
+    "min": 1,
+    "max": 4,
+    "labels": {
+      "1": "Very important",
+      "2": "Rather important",
+      "3": "Not very important",
+      "4": "Not at all important"
+    }
+  },
+  "Q6": {
+    "text": "How important is Religion in your life?",
+    "min": 1,
+    "max": 4,
+    "labels": {
+      "1": "Very important",
+      "2": "Rather important",
+      "3": "Not very important",
+      "4": "Not at all important"
+    }
+  },
+  "Q28": {
+    "text": "When a mother works for pay, the children suffer.",
+    "min": 1,
+    "max": 4,
+    "labels": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Disagree",
+      "4": "Strongly disagree"
+    }
+  },
+  "Q47": {
+    "text": "All in all, how would you describe your state of health these days?",
+    "min": 1,
+    "max": 5,
+    "labels": {
+      "1": "Very good",
+      "2": "Good",
+      "3": "Fair",
+      "4": "Poor",
+      "5": "Very poor"
+    }
+  },
+  "Q48": {
+    "text": "How much freedom of choice and control do you feel you have over the way your life turns out? (1 = No choice at all, 10 = A great deal of choice)",
+    "min": 1,
+    "max": 10,
+    "labels": null
+  },
+  "Q49": {
+    "text": "All things considered, how satisfied are you with your life as a whole these days? (1 = Completely dissatisfied, 10 = Completely satisfied)",
+    "min": 1,
+    "max": 10,
+    "labels": null
+  },
+  "Q64": {
+    "text": "How much confidence do you have in the churches/religious institutions?",
+    "min": 1,
+    "max": 4,
+    "labels": {
+      "1": "A great deal",
+      "2": "Quite a lot",
+      "3": "Not very much",
+      "4": "None at all"
+    }
+  },
+  "Q66": {
+    "text": "How much confidence do you have in the press?",
+    "min": 1,
+    "max": 4,
+    "labels": {
+      "1": "A great deal",
+      "2": "Quite a lot",
+      "3": "Not very much",
+      "4": "None at all"
+    }
+  },
+  "Q69": {
+    "text": "How much confidence do you have in the police?",
+    "min": 1,
+    "max": 4,
+    "labels": {
+      "1": "A great deal",
+      "2": "Quite a lot",
+      "3": "Not very much",
+      "4": "None at all"
+    }
+  },
+  "Q70": {
+    "text": "How much confidence do you have in the courts?",
+    "min": 1,
+    "max": 4,
+    "labels": {
+      "1": "A great deal",
+      "2": "Quite a lot",
+      "3": "Not very much",
+      "4": "None at all"
+    }
+  },
+  "Q71": {
+    "text": "How much confidence do you have in the government?",
+    "min": 1,
+    "max": 4,
+    "labels": {
+      "1": "A great deal",
+      "2": "Quite a lot",
+      "3": "Not very much",
+      "4": "None at all"
+    }
+  },
+  "Q73": {
+    "text": "How much confidence do you have in parliament?",
+    "min": 1,
+    "max": 4,
+    "labels": {
+      "1": "A great deal",
+      "2": "Quite a lot",
+      "3": "Not very much",
+      "4": "None at all"
+    }
+  },
+  "Q74": {
+    "text": "How much confidence do you have in the civil service?",
+    "min": 1,
+    "max": 4,
+    "labels": {
+      "1": "A great deal",
+      "2": "Quite a lot",
+      "3": "Not very much",
+      "4": "None at all"
+    }
+  },
+  "Q77": {
+    "text": "How much confidence do you have in major companies?",
+    "min": 1,
+    "max": 4,
+    "labels": {
+      "1": "A great deal",
+      "2": "Quite a lot",
+      "3": "Not very much",
+      "4": "None at all"
+    }
+  },
+  "Q106": {
+    "text": "Now I'd like you to tell me your views on various issues. How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right; and if your views fall somewhere in between, you can choose any number in between.\nIncomes should be made more equal (1) vs. There should be greater incentives for individual effort (10)",
+    "min": 1,
+    "max": 10,
+    "labels": null
+  },
+  "Q107": {
+    "text": "Now I'd like you to tell me your views on various issues. How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right; and if your views fall somewhere in between, you can choose any number in between.\nPrivate ownership of business should be increased (1) vs. Government ownership of business should be increased (10)",
+    "min": 1,
+    "max": 10,
+    "labels": null
+  },
+  "Q108": {
+    "text": "Now I'd like you to tell me your views on various issues. How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right; and if your views fall somewhere in between, you can choose any number in between.\nThe government should take more responsibility for ensuring everyone is provided for (1) vs. People should take more responsibility to provide for themselves (10)",
+    "min": 1,
+    "max": 10,
+    "labels": null
+  },
+  "Q109": {
+    "text": "Now I'd like you to tell me your views on various issues. How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right; and if your views fall somewhere in between, you can choose any number in between.\nCompetition is good; it stimulates people to work hard and develop new ideas (1) vs. Competition is harmful; it brings out the worst in people (10)",
+    "min": 1,
+    "max": 10,
+    "labels": null
+  },
+  "Q171": {
+    "text": "Apart from weddings and funerals, about how often do you attend religious services these days?",
+    "min": 1,
+    "max": 8,
+    "labels": {
+      "1": "More than once a week",
+      "2": "Once a week",
+      "3": "Once a month",
+      "4": "Only on special holy days",
+      "5": "Other specific holy days",
+      "6": "Once a year",
+      "7": "Less often",
+      "8": "Never, practically never"
+    }
+  },
+  "Q173": {
+    "text": "Independently of whether you attend religious services or not, would you say you are:",
+    "min": 1,
+    "max": 3,
+    "labels": {
+      "1": "A religious person",
+      "2": "Not a religious person",
+      "3": "An atheist"
+    }
+  },
+  "Q180": {
+    "text": "Please tell me for each of the following actions whether you think it can always be justified, never be justified, or something in between.\nCheating on taxes if you have a chance (1 = Never justifiable, 10 = Always justifiable)",
+    "min": 1,
+    "max": 10,
+    "labels": null
+  },
+  "Q181": {
+    "text": "Please tell me for each of the following actions whether you think it can always be justified, never be justified, or something in between.\nSomeone accepting a bribe in the course of their duties (1 = Never justifiable, 10 = Always justifiable)",
+    "min": 1,
+    "max": 10,
+    "labels": null
+  },
+  "Q185": {
+    "text": "Please tell me for each of the following actions whether you think it can always be justified, never be justified, or something in between.\nDivorce (1 = Never justifiable, 10 = Always justifiable)",
+    "min": 1,
+    "max": 10,
+    "labels": null
+  },
+  "Q187": {
+    "text": "Please tell me for each of the following actions whether you think it can always be justified, never be justified, or something in between.\nSuicide (1 = Never justifiable, 10 = Always justifiable)",
+    "min": 1,
+    "max": 10,
+    "labels": null
+  },
+  "Q199": {
+    "text": "How interested would you say you are in politics?",
+    "min": 1,
+    "max": 4,
+    "labels": {
+      "1": "Very interested",
+      "2": "Somewhat interested",
+      "3": "Not very interested",
+      "4": "Not at all interested"
+    }
+  },
+  "Q210": {
+    "text": "Joining in boycotts: have you done this, might you do it, or would you never do it?",
+    "min": 1,
+    "max": 3,
+    "labels": {
+      "1": "Have done",
+      "2": "Might do",
+      "3": "Would never do"
+    }
+  },
+  "Q211": {
+    "text": "Attending peaceful demonstrations: have you done this, might you do it, or would you never do it?",
+    "min": 1,
+    "max": 3,
+    "labels": {
+      "1": "Have done",
+      "2": "Might do",
+      "3": "Would never do"
+    }
+  },
+  "Q235": {
+    "text": "Having a strong leader who does not have to bother with parliament and elections: is this a very good, fairly good, fairly bad or very bad way of governing this country?",
+    "min": 1,
+    "max": 4,
+    "labels": {
+      "1": "Very good",
+      "2": "Fairly good",
+      "3": "Fairly bad",
+      "4": "Very bad"
+    }
+  },
+  "Q236": {
+    "text": "Having experts, not government, make decisions according to what they think is best for the country: is this a very good, fairly good, fairly bad or very bad way of governing?",
+    "min": 1,
+    "max": 4,
+    "labels": {
+      "1": "Very good",
+      "2": "Fairly good",
+      "3": "Fairly bad",
+      "4": "Very bad"
+    }
+  },
+  "Q237": {
+    "text": "Having the army rule: is this a very good, fairly good, fairly bad or very bad way of governing this country?",
+    "min": 1,
+    "max": 4,
+    "labels": {
+      "1": "Very good",
+      "2": "Fairly good",
+      "3": "Fairly bad",
+      "4": "Very bad"
+    }
+  },
+  "Q238": {
+    "text": "Having a democratic political system: is this a very good, fairly good, fairly bad or very bad way of governing this country?",
+    "min": 1,
+    "max": 4,
+    "labels": {
+      "1": "Very good",
+      "2": "Fairly good",
+      "3": "Fairly bad",
+      "4": "Very bad"
+    }
+  },
+  "Q8": {
+    "text": "Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five! Good manners, independence, hard work, feeling of responsibility, imagination, tolerance and respect for other people, thrift, determination and perseverance, religious faith, not being selfish, and obedience.",
+    "min": 0,
+    "max": 1,
+    "labels": null,
+    "autonomy_trait": "independence"
+  },
+  "Q11": {
+    "text": "Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five! Good manners, independence, hard work, feeling of responsibility, imagination, tolerance and respect for other people, thrift, determination and perseverance, religious faith, not being selfish, and obedience.",
+    "min": 0,
+    "max": 1,
+    "labels": null,
+    "autonomy_trait": "imagination"
+  },
+  "Q15": {
+    "text": "Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five! Good manners, independence, hard work, feeling of responsibility, imagination, tolerance and respect for other people, thrift, determination and perseverance, religious faith, not being selfish, and obedience.",
+    "min": 0,
+    "max": 1,
+    "labels": null,
+    "autonomy_trait": "religious faith"
+  },
+  "Q17": {
+    "text": "Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five! Good manners, independence, hard work, feeling of responsibility, imagination, tolerance and respect for other people, thrift, determination and perseverance, religious faith, not being selfish, and obedience.",
+    "min": 0,
+    "max": 1,
+    "labels": null,
+    "autonomy_trait": "obedience"
+  },
+  "Q45": {
+    "text": "Greater respect for authority: would this be a good thing, a bad thing, or don't you mind?",
+    "min": 1,
+    "max": 3,
+    "labels": {
+      "1": "Good",
+      "2": "Don't mind",
+      "3": "Bad"
+    }
+  },
+  "Q46": {
+    "text": "Taking all things together, would you say you are:",
+    "min": 1,
+    "max": 4,
+    "labels": {
+      "1": "Very happy",
+      "2": "Rather happy",
+      "3": "Not very happy",
+      "4": "Not at all happy"
+    }
+  },
+  "Q57": {
+    "text": "Generally speaking, would you say that most people can be trusted or that you need to be very careful in dealing with people?",
+    "min": 1,
+    "max": 2,
+    "labels": {
+      "1": "Most people can be trusted",
+      "2": "Need to be very careful"
+    }
+  },
+  "Q154": {
+    "text": "Which one of the things on this card would you say is MOST important? 1=Maintaining order in the nation, 2=Giving people more say in important government decisions, 3=Fighting rising prices, 4=Protecting freedom of speech",
+    "min": 1,
+    "max": 4,
+    "labels": {
+      "1": "Maintaining order",
+      "2": "More say in government",
+      "3": "Fighting rising prices",
+      "4": "Protecting freedom of speech"
+    }
+  },
+  "Q155": {
+    "text": "Which one of the things on this card would you say is SECOND most important? 1=Maintaining order in the nation, 2=Giving people more say in important government decisions, 3=Fighting rising prices, 4=Protecting freedom of speech",
+    "min": 1,
+    "max": 4,
+    "labels": {
+      "1": "Maintaining order",
+      "2": "More say in government",
+      "3": "Fighting rising prices",
+      "4": "Protecting freedom of speech"
+    }
+  },
+  "Q164": {
+    "text": "How important is God in your life? Please use this scale to indicate. 10 means \"very important\" and 1 means \"not at all important.\"",
+    "min": 1,
+    "max": 10,
+    "labels": null
+  },
+  "Q182": {
+    "text": "Please tell me for each of the following actions whether you think it can always be justified, never be justified, or something in between.\nHomosexuality (1 = Never justifiable, 10 = Always justifiable)",
+    "min": 1,
+    "max": 10,
+    "labels": null
+  },
+  "Q184": {
+    "text": "Please tell me for each of the following actions whether you think it can always be justified, never be justified, or something in between.\nAbortion (1 = Never justifiable, 10 = Always justifiable)",
+    "min": 1,
+    "max": 10,
+    "labels": null
+  },
+  "Q209": {
+    "text": "Signing a petition: have you done this, might you do it, or would you never do it?",
+    "min": 1,
+    "max": 3,
+    "labels": {
+      "1": "Have done",
+      "2": "Might do",
+      "3": "Would never do"
+    }
+  },
+  "Q254": {
+    "text": "How proud are you to be of your nationality?",
+    "min": 1,
+    "max": 4,
+    "labels": {
+      "1": "Very proud",
+      "2": "Quite proud",
+      "3": "Not very proud",
+      "4": "Not at all proud"
+    }
+  },
+  "Q7": {
+    "text": "Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five! Good manners, independence, hard work, feeling of responsibility, imagination, tolerance and respect for other people, thrift, determination and perseverance, religious faith, not being selfish, and obedience.",
+    "min": 0,
+    "max": 1,
+    "labels": null,
+    "autonomy_trait": "good manners"
+  },
+  "Q9": {
+    "text": "Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five! Good manners, independence, hard work, feeling of responsibility, imagination, tolerance and respect for other people, thrift, determination and perseverance, religious faith, not being selfish, and obedience.",
+    "min": 0,
+    "max": 1,
+    "labels": null,
+    "autonomy_trait": "hard work"
+  },
+  "Q10": {
+    "text": "Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five! Good manners, independence, hard work, feeling of responsibility, imagination, tolerance and respect for other people, thrift, determination and perseverance, religious faith, not being selfish, and obedience.",
+    "min": 0,
+    "max": 1,
+    "labels": null,
+    "autonomy_trait": "feeling of responsibility"
+  },
+  "Q12": {
+    "text": "Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five! Good manners, independence, hard work, feeling of responsibility, imagination, tolerance and respect for other people, thrift, determination and perseverance, religious faith, not being selfish, and obedience.",
+    "min": 0,
+    "max": 1,
+    "labels": null,
+    "autonomy_trait": "tolerance and respect for other people"
+  },
+  "Q13": {
+    "text": "Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five! Good manners, independence, hard work, feeling of responsibility, imagination, tolerance and respect for other people, thrift, determination and perseverance, religious faith, not being selfish, and obedience.",
+    "min": 0,
+    "max": 1,
+    "labels": null,
+    "autonomy_trait": "thrift"
+  },
+  "Q14": {
+    "text": "Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five! Good manners, independence, hard work, feeling of responsibility, imagination, tolerance and respect for other people, thrift, determination and perseverance, religious faith, not being selfish, and obedience.",
+    "min": 0,
+    "max": 1,
+    "labels": null,
+    "autonomy_trait": "determination and perseverance"
+  },
+  "Q16": {
+    "text": "Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five! Good manners, independence, hard work, feeling of responsibility, imagination, tolerance and respect for other people, thrift, determination and perseverance, religious faith, not being selfish, and obedience.",
+    "min": 0,
+    "max": 1,
+    "labels": null,
+    "autonomy_trait": "not being selfish"
+  }
+}

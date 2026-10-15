@@ -1,0 +1,21 @@
+.venv/
+__pycache__/
+*.py[cod]
+figures/generation_report.json
+exports/
+.pytest_cache/
+
+.coverage
+htmlcov/
+results/
+
+# Official downloads and locally rebuilt survey-derived data
+private_data/
+*.sav
+*.zsav
+*.dta
+.env
+.env.*
+data/prompt_text.json
+data/prompt_index.parquet
+data/human_counts.csv

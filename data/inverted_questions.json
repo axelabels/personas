@@ -1,0 +1,93 @@
+{
+  "Q164": {
+    "text": "How important is God in your life? Please use this scale to indicate. 1 means \"very important\" and 10 means \"not at all important.\"",
+    "min": 1,
+    "max": 10,
+    "labels": null
+  },
+  "Q254": {
+    "text": "How proud are you to be of your nationality?",
+    "min": 1,
+    "max": 4,
+    "labels": {
+      "4": "Very proud",
+      "3": "Quite proud",
+      "2": "Not very proud",
+      "1": "Not at all proud"
+    }
+  },
+  "Q46": {
+    "text": "Taking all things together, would you say you are:",
+    "min": 1,
+    "max": 4,
+    "labels": {
+      "4": "Very happy",
+      "3": "Rather happy",
+      "2": "Not very happy",
+      "1": "Not at all happy"
+    }
+  },
+  "Q57": {
+    "text": "Generally speaking, would you say that most people can be trusted or that you need to be very careful in dealing with people?",
+    "min": 1,
+    "max": 2,
+    "labels": {
+      "2": "Most people can be trusted",
+      "1": "Need to be very careful"
+    }
+  },
+  "Q45": {
+    "text": "Greater respect for authority: would this be a good thing, bad thing, or don't you mind?",
+    "min": 1,
+    "max": 3,
+    "labels": {
+      "3": "Good",
+      "2": "Don't mind",
+      "1": "Bad"
+    }
+  },
+  "Q209": {
+    "text": "Signing a petition: have you done this, might you do it, or would you never do it?",
+    "min": 1,
+    "max": 3,
+    "labels": {
+      "3": "Have done",
+      "2": "Might do",
+      "1": "Would never do"
+    }
+  },
+  "Q182": {
+    "text": "Please tell me for each of the following actions whether you think it can always be justified, never be justified, or something in between.\nHomosexuality (1 = Always justifiable, 10 = Never justifiable)",
+    "min": 1,
+    "max": 10,
+    "labels": null
+  },
+  "Q184": {
+    "text": "Please tell me for each of the following actions whether you think it can always be justified, never be justified, or something in between.\nAbortion (1 = Always justifiable, 10 = Never justifiable)",
+    "min": 1,
+    "max": 10,
+    "labels": null
+  },
+  "Q154": {
+    "text": "Which one of the things on this card would you say is MOST important? 4=Maintaining order in the nation, 3=Giving people more say in important government decisions, 2=Fighting rising prices, 1=Protecting freedom of speech",
+    "min": 1,
+    "max": 4,
+    "labels": {
+      "4": "Maintaining order",
+      "3": "More say in government",
+      "2": "Fighting rising prices",
+      "1": "Protecting freedom of speech"
+    }
+  },
+  "Q155": {
+    "text": "Which one of the things on this card would you say is SECOND most important? 4=Maintaining order in the nation, 3=Giving people more say in important government decisions, 2=Fighting rising prices, 1=Protecting freedom of speech",
+    "min": 1,
+    "max": 4,
+    "labels": {
+      "4": "Maintaining order",
+      "3": "More say in government",
+      "2": "Fighting rising prices",
+      "1": "Protecting freedom of speech"
+    }
+  }
+}
